@@ -15,5 +15,5 @@ I started my adventure with programming in January 2022, on a course at Udemy af
 	</li>
 	<li>
 	
-	<a href='https://reactjs.org/'><img src='	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)'/></a></li>
+	<a href='https://reactjs.org/'><img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/></a></li>
 	</ul>
