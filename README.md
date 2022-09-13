@@ -14,6 +14,10 @@ I started my adventure with programming in January 2022, on a course at Udemy af
 <a href='https://developer.mozilla.org/en-US/docs/Web/css'><img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/><a/>
 	</li>
 	<li>
+		<li>
+
+<a href='https://reactjs.org/'><img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/><a/>
+	</li>
 	
-	<a href='https://reactjs.org/'><img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/></a></li>
+	
 	</ul>
