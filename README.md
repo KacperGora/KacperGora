@@ -6,6 +6,5 @@ I started my adventure with programming in January 2022, on a course at Udemy. I
 	
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'></img></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/html"><img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'></img></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/css"><img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'></img></a>
 
-
+<a href=''><img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/><a/>
