@@ -1,5 +1,13 @@
 ### Hi there 👋
 ✉️ You can contact me at kacpergoora@gmail.com
+![](https://komarev.com/ghpvc/?username=kacpergora)</br>
+I'm a Frontend Developer developer from Poland, based in Nowy Sącz city.
+
+🔭 I’m currently working at QarbonIT ❤️
+❤️ I love writing code and learn anythings about it
+📫 How to reach me: LinkedIn or kacpergoora@gmail.com
+
+
 <ul>
 	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'></img></a></li>
 	<li><a href="https://developer.mozilla.org/en-US/docs/Web/html"><img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'></img></a></li>
@@ -13,6 +21,4 @@ ___________________________________
 
 	
 ___________________________________
-![](https://komarev.com/ghpvc/?username=kacpergora)</br>
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=kacpergora&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacpergora&count_private=true)
