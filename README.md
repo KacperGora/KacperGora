@@ -2,11 +2,11 @@
 ✉️ You can contact me at kacpergoora@gmail.com
 ![](https://komarev.com/ghpvc/?username=kacpergora)</br>
 I'm a Frontend Developer developer from Poland, based in Nowy Sącz city.
-
-🔭 I’m currently working at QarbonIT ❤️
-❤️ I love writing code and learn anythings about it
-📫 How to reach me: LinkedIn or kacpergoora@gmail.com
-
+<ul>
+<li>🔭 I’m currently working at QarbonIT ❤️</li>
+<li>❤️ I love writing code and learn anythings about it</li>
+<li>📫 How to reach me: LinkedIn or kacpergoora@gmail.com</li>
+<ul>
 
 <ul>
 	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'></img></a></li>
